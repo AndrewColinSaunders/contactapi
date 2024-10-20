@@ -136,3 +136,4 @@ C:\Users\asaunders\source\repos\contactsapi\contactsapi\obj\Release\net8.0\refin
 C:\Users\asaunders\source\repos\contactsapi\contactsapi\obj\Release\net8.0\contactsapi.pdb
 C:\Users\asaunders\source\repos\contactsapi\contactsapi\obj\Release\net8.0\contactsapi.genruntimeconfig.cache
 C:\Users\asaunders\source\repos\contactsapi\contactsapi\obj\Release\net8.0\ref\contactsapi.dll
+C:\Users\asaunders\source\repos\contactsapi\contactsapi\obj\Release\net8.0\contactsapi.sourcelink.json
